@@ -1,0 +1,5 @@
+#Google Auth
+{
+"consumer_key" : "11354592771-af0het9mb44oej2uv8sqe4rvfq3bhcm3.apps.googleusercontent.com",
+"consumer_secret" : "mzYUTMuhGXG_ZofGw5yd2SjL"
+}
